@@ -2,6 +2,7 @@ This repository serves as a record of problems I've solved on various coding pla
 
 Platforms
 
-> Codeforces
-> Toph
-> Vjudge
+Codeforces
+Toph
+Vjudge
+
