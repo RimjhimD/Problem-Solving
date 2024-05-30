@@ -2,7 +2,9 @@ This repository serves as a record of problems I've solved on various coding pla
 
 Platforms
 
-Codeforces
-Toph
-Vjudge
+>Codeforces (https://codeforces.com/profile/Peew)
+<br>
+>Toph (https://toph.co/u/riiChan)
+<br>
+>Vjudge (https://vjudge.net/user/Rimjhim)
 
